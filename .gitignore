@@ -1,0 +1,10 @@
+# object files
+*.o
+
+# executables
+*.exe
+*.out
+bin/server
+bin/client
+bin/server_bonus
+bin/client_bonus
