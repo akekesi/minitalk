@@ -9,7 +9,6 @@
 Please note that this project is a work in progress. Some features may not be fully implemented or documented yet.
 
 ## Usage
-Run MiniTalk:
 ```
-$ make
+$ 
 ```
