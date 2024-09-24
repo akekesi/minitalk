@@ -15,7 +15,10 @@ RM = rm -rf
 
 DEPS = $(INC)/minitalk.h
 
-SRCS_COMMON = 
+SRCS_COMMON = $(SRC)/ft_atoi.c \
+	$(SRC)/ft_is.c \
+	$(SRC)/ft_itoa.c \
+	$(SRC)/ft_putstr.c \
 
 SRCS_S = $(SRC)/server.c $(SRCS_COMMON)
 SRCS_C = $(SRC)/client.c $(SRCS_COMMON)
