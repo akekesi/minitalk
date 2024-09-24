@@ -5,6 +5,28 @@
 # include <stdlib.h>
 # include <signal.h>
 
+typedef struct s_info_server
+{
+	int		first;
+	int		n_bit;
+	int		n_char;
+	int		n_message;
+	char	char_;
+}	t_info_server;
+
+typedef struct s_info_client
+{
+	int		first;
+	int		n_bit;
+	int		n_char;
+	int		n_message;
+	char	*message;
+}	t_info_client;
+
+// server.c
+
+// client.c
+
 // ft_atoi.c
 int 	ft_atoi(const char *str);
 
