@@ -23,10 +23,6 @@ typedef struct s_info_client
 	char	*message;
 }	t_info_client;
 
-// server.c
-
-// client.c
-
 // ft_atoi.c
 int 	ft_atoi(const char *str);
 
