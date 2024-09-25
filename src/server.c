@@ -3,7 +3,7 @@
 // TODO: check, whether signal comming from client?
 // TODO: answer only for client!
 
-# include "minitalk.h"
+#include "minitalk.h"
 
 t_info_server	g_info_server;
 
@@ -15,7 +15,6 @@ static void	print_char(void);
 static void	print_last(void);
 static void	build_char(int signal);
 static void	signal_handler(int signal, siginfo_t *info, void *context);
-
 
 static void	init_info(void)
 {
