@@ -36,9 +36,7 @@ This project was initially developed as an [assignment](docs/minitalk.pdf) for [
 
 ## Demo
 <p align="center">
-   <a href="#demo" title="Click to view full-size GIF in Demo section">
-      <img src="gif/minitalk_demo.gif" alt="minitalk_demo_gif">
-  </a>
+   <img src="gif/minitalk_demo.gif" alt="minitalk_demo_gif">
 </p>
 
 ## Prerequisites
