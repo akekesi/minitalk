@@ -1,15 +1,15 @@
 # MiniTalk
 <div align="center">
 
-   ![Status](https://img.shields.io/badge/Status-in_progress-yellow.svg)
+   [![Status](https://img.shields.io/badge/Status-in_progress-yellow.svg)](https://github.com/akekesi/minitalk?tab=readme-ov-file#description)
 </div>
 
 <div align="center">
 
-   ![C](https://img.shields.io/badge/C-✔-blue)
-   ![Signals](https://img.shields.io/badge/Signals-✔-blue)
-   ![Makefile](https://img.shields.io/badge/Makefile-✔-blue)
-   ![Shell Script](https://img.shields.io/badge/Shell_Script-✔-blue)
+   [![C](https://img.shields.io/badge/C-✔-blue)](https://en.wikipedia.org/wiki/C_(programming_language))
+   [![Signals](https://img.shields.io/badge/Signals-✔-blue)](https://en.wikipedia.org/wiki/C_signal_handling)
+   [![Makefile](https://img.shields.io/badge/Makefile-✔-blue)](https://opensource.com/article/18/8/what-how-makefile)
+   [![Shell Script](https://img.shields.io/badge/Shell_Script-✔-blue)](https://en.wikipedia.org/wiki/Shell_script)
 </div>
 
 <p align="center">
