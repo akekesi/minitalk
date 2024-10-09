@@ -1,16 +1,22 @@
 # MiniTalk
 <div align="center">
 
-![Status](https://img.shields.io/badge/Status-in_progress-yellow.svg)
+   ![Status](https://img.shields.io/badge/Status-in_progress-yellow.svg)
 </div>
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-✔-blue)
-![Signals](https://img.shields.io/badge/Signals-✔-blue)
-![Makefile](https://img.shields.io/badge/Makefile-✔-blue)
-![Shell Script](https://img.shields.io/badge/Shell_Script-✔-blue)
+   ![C](https://img.shields.io/badge/C-✔-blue)
+   ![Signals](https://img.shields.io/badge/Signals-✔-blue)
+   ![Makefile](https://img.shields.io/badge/Makefile-✔-blue)
+   ![Shell Script](https://img.shields.io/badge/Shell_Script-✔-blue)
 </div>
+
+<p align="center">
+   <a href="#demo" title="Click to view full-size GIF in Demo section">
+      <img src="gif/minitalk_demo.gif" alt="minitalk_demo_50_gif">
+  </a>
+</p>
 
 ## Table of Contents
 1. [Description](#description)
@@ -29,7 +35,11 @@ This project was initially developed as an [assignment](docs/minitalk.pdf) for [
 🚧 This project is a work in progress. Some features may be incomplete, untested, or lacking full documentation. 🚧
 
 ## Demo
-🚧 Demo is currently in progress 🚧
+<p align="center">
+   <a href="#demo" title="Click to view full-size GIF in Demo section">
+      <img src="gif/minitalk_demo.gif" alt="minitalk_demo_gif">
+  </a>
+</p>
 
 ## Prerequisites
 🚧 Prerequisites is currently in progress 🚧
@@ -85,7 +95,7 @@ $ ./bin/client 12345 "Send this message to the server. 🚀"
 - [x] Add docstrings (module, class, function)
 - [ ] Refactor KISS, DRY
 - [ ] Write tests
-- [ ] Add demo, animation, or video
+- [x] ~~Add demo, animation, or video~~
 - [x] ~~Add license~~
 - [ ] Create a logo for MiniTalk
 - [ ] Complete README.md
