@@ -30,8 +30,8 @@
 
 
 ## Description
-This project was initially developed as an [assignment](docs/minitalk.pdf) for [42 Berlin](https://42berlin.de/de/).
-
+This project was initially developed as an [assignment](docs/minitalk.pdf) for [42 Berlin](https://42berlin.de/de/).  
+A UNIX signal-based client-server communication program where the server, upon launch, displays its PID and handles multiple client requests without restarting. Clients send strings to the server using only SIGUSR1 and SIGUSR2 signals, with the server displaying received messages swiftly and acknowledging each one via return signal. Supports Unicode characters.  
 🚧 This project is a work in progress. Some features may be incomplete, untested, or lacking full documentation. 🚧
 
 ## Demo
@@ -44,7 +44,7 @@ This project was initially developed as an [assignment](docs/minitalk.pdf) for [
 
 ## Usage
 The Makefile provides the following options for building and cleaning the project:
-```bash
+```
 $ make          # Build the main part of the project
 $ make bonus    # Build the bonus part (same as the main part)
 $ make clean    # Remove object files
@@ -53,13 +53,13 @@ $ make re       # Perform 'fclean' and then rebuild the main part
 ```
 ### Running the server:
 To start the server, execute:
-```bash
+```
 $ ./bin/server
 ```
 The server will output its process ID (PID) upon startup.
 ### Running the client:
 To run the client and send a message to the server, use the following command:
-```bash
+```
 $ ./bin/client <server_pid> <message>
 ```
    Where
@@ -67,7 +67,7 @@ $ ./bin/client <server_pid> <message>
    - `<message>`: The message you want to send to the server.
 ### Example
 In one terminal, start the server:
-```bash
+```
 $ ./bin/server
 server pid: 12345
 ```
