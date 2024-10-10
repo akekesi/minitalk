@@ -91,6 +91,7 @@ $ ./bin/client 12345 "Send this message to the server. 🚀"
 - [ ] Add badges (Version)
 - [ ] Add badges (...)
 - [x] Add docstrings (module, class, function)
+- [ ] Communication with only one client pid
 - [ ] Refactor KISS, DRY
 - [ ] Write tests
 - [x] ~~Add demo, animation, or video~~
